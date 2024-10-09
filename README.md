@@ -82,7 +82,7 @@
 ###
 
 <div align="left">
-  <a href="https://instagram.com/innovin" target="_blank">
+  <a href="https://www.instagram.com/sensei_job/profilecard/?igsh=YmNwZjM2cW0xcmk5" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/josepholuwaseunbenedict/" target="_blank">
