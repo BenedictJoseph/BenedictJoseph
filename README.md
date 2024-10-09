@@ -9,9 +9,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h2>I'm led to believe that you are not a robot or AI 👀</h2>
-<p><em>Just kidding...</em></p>
-
 <h2 align="center">Hi 👋! My name is Joseph Oluwaseun Benedict i am passionate about building secure and scalable software solutions. Experienced in software development, cyber threat analysis, and vulnerability management. Always exploring new tech and cybersecurity innovations.</h2>
 
 ###
